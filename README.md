@@ -1,6 +1,6 @@
 # TMBD-movie-database
 
-I am fetched the data using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the Data like Movie_name, movie_id, provider_name, Buy_provider etc. given by the user in the IMDB site using requests, asyncio, pandas etc.
+I have fetched the data using an API by TMDB, https://www.themoviedb.org/documentation/api, and using the IMDB id of the movie in the API, I did web scraping to get the Data like Movie_name, movie_id, provider_name, Buy_provider etc. given by the user in the IMDB site using requests, asyncio, pandas etc.
 
 **Link to the introduction**
 
